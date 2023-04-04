@@ -2,7 +2,7 @@ import wx
 
 class LoggingToolGUI(wx.Frame):
     def __init__(self, parent, title):
-        super(LoggingToolGUI, self).__init__(parent, title=title, size=(300, 200))
+        super(LoggingToolGUI, self).__init__(parent, title=title, size=(500, 600))
 
         self.panel = wx.Panel(self)
 
