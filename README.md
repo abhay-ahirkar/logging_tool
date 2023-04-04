@@ -21,9 +21,14 @@ The logging tool is implemented using the Python `logging` module. The graphical
 
 Here are some screenshots of the logging tool in action:
 
-![Logging tool main window](screenshots/main_window.png)
+![Logging tool main window]
 
-![Logging tool settings window](screenshots/settings_window.png)
+https://user-images.githubusercontent.com/127684179/229801425-fea496e5-a60a-474b-aad7-caec7f55c5a1.mp4
+
+![Screenshot 2023-04-04 182630](https://user-images.githubusercontent.com/127684179/229801516-c37ade6b-0961-48bc-a1c5-24d59c4523df.png)
+
+
+![Logging tool settings window]
 
 ## Installation
 
